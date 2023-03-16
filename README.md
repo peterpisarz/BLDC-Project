@@ -9,5 +9,5 @@ https://twitter.com/peterpisarz/status/1632994093889466368?s=20
 I liked this project and thought it would be repeatable for others, so I made the design and build of this into an online course. You can watch a preview lesson of the course in the link below. This takes you through my logic of selecting the bearings, drive shaft and other components, how I assemble them, run a tolerance stack analysis and plan my build.
 https://electrotech-design-academy.teachable.com/courses/3d-printed-brushless-dc-motor-project/lectures/45775390
 
-If you enjoyed this project please consider following my twitter. I am always designing new motors and intend to build a quadcopter in the near future.
+If you enjoyed this project please consider following my Twitter. I am always designing new motors and intend to build a quadcopter in the near future.
 @peterpisarz
